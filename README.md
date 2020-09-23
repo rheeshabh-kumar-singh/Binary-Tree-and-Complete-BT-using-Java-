@@ -59,7 +59,8 @@ This file contains codes to make a simple binary tree by 2 methods:
   
   
   -----------------------------------------------------------------------------
-  static void inOrder(Node root)
+  
+  	static void inOrder(Node root)
       {
         if(root!=null)
           {
