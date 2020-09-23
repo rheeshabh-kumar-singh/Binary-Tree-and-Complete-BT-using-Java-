@@ -83,10 +83,10 @@ This file contains codes to make a simple binary tree by 2 methods:
       {
         if(root!=null)
           {
-            System.out.print(root.data);
             postOrder(root.left);
             postOrder(root.right);
-          }
+            System.out.print(root.data);
+	  }
       }
 -----------------------------------------------------------------------------------      
   
