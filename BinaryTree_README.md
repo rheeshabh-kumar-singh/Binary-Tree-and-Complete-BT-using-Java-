@@ -55,7 +55,7 @@ This file contains codes to make a simple binary tree by 2 methods:
  
  
  
-  Tree Traversals (Inorder, Preorder and Postorder)
+ # Tree Traversals (Inorder, Preorder and Postorder)
   
   
   -----------------------------------------------------------------------------
@@ -90,7 +90,6 @@ This file contains codes to make a simple binary tree by 2 methods:
       }
 -----------------------------------------------------------------------------------      
   
-  
-  Thanks for Visiting!!
+# Thanks for Visiting!!
   
   
